@@ -1,6 +1,6 @@
 # Розкладка "US-Enhanced(QWERTY)"
 
-![US_FULL](us_full.png)
+![us_full.png](us_full.png)
 
 В цій розкладці є:
 - стандартна розкладка англійської мови
@@ -9,7 +9,7 @@
 
 ## Інсталяція та видалення
 
-Ця розкладка буде додана як англійська мова(English, ENG), з назвою "US-Enhanced". 
+Ця розкладка буде додана як англійська мова(English, ENG), із назвою "US-Enhanced". 
 
 Після можна видалити стандартну англійську розкладку.
 
@@ -17,4 +17,4 @@
 
 Файл [us_full.klc](us_full.klc) — це розкладка клавіатури "US-Enhanced".
 
-[<ins>Зображення візуалізації цієї розкладки для редагування.</ins>](http://www.keyboard-layout-editor.com/#/gists/6ed7422686ca1c601efe34c0a5f3234b)
+[<ins>Зображення цієї розкладки для редагування.</ins>](http://www.keyboard-layout-editor.com/#/gists/6ed7422686ca1c601efe34c0a5f3234b)
