@@ -1,4 +1,4 @@
-# Розкладка "US-Enhanced"
+# Розкладка "US-Enhanced(QWERTY)"
 
 ![US_FULL](us_full.png)
 
@@ -15,6 +15,6 @@
 
 ## Інформація для самостійного редагування(створення) розкладки.
 
-Файл [us_full.klc](us-full.klc) — це розкладка клавіатури "US-Enhanced".
+Файл [us_full.klc](us_full.klc) — це розкладка клавіатури "US-Enhanced".
 
 [<ins>Зображення візуалізації цієї розкладки для редагування.</ins>](http://www.keyboard-layout-editor.com/#/gists/6ed7422686ca1c601efe34c0a5f3234b)

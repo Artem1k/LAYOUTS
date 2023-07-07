@@ -1,6 +1,6 @@
-# Латинський уклад української мови від Максима Прудеуса
+# Латинський уклад української мови від Максима Прудеуса "UA-Latynka(ĜŠERTY)"
 
-![Uklad](<UKLAD Klaviatury.jpg>)
+![Uklad](<UKLAD_Klaviatury.jpg>)
 
 Раджу ознайомитись з цією розкладкою та інформацією про українську латинку у цьому [відео](https://www.youtube.com/watch?v=nHeE2x2UNw4).<br>
 Оригінал розкладки взято [тут](https://drive.google.com/drive/folders/1h1pUOOd8DRGtQFtvmpVLDd41bzc7DjRe).<br>
@@ -22,4 +22,4 @@
 
 ## FAQ
 
-![FAQ](<Časti zapytannja.jpg>)
+![FAQ](<Časti_zapytannja.jpg>)
